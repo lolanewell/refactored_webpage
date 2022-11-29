@@ -14,9 +14,8 @@ The website can be accessed [here]()
 
 A screenshot of the website can be seen below
 
-```md
-![Horiseon Website Screenshot](assets/images/Horiseon-Website-Screenshot.png)
-```
+![Horiseon Website Screenshot](assets/Horiseon-Website-Screenshot.png)
+
 ## Credits
 
 N/A
