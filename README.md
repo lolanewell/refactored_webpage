@@ -8,7 +8,7 @@ Through this project I learnt the importance of accesibility and using semantic 
 
 ## Installation
 
-The website can be accessed [here]()
+The website can be accessed [here](https://lolanewell.github.io/Week-1-Challenge/)
 
 ## Usage
 
